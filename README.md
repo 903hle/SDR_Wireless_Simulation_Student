@@ -20,4 +20,4 @@ Lab7: Moose algorithm for frequency offset compensation
 
 Lab8: Channel coding and decoding
 
-Lab9: Multiple radio combination for multiple input antennas
+Lab9: Maximum-radio combining for multiple input antennas
